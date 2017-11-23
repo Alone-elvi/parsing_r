@@ -1,0 +1,29 @@
+Request headers:
+GET /libs/site/AjaxServer/CertListFree.ajax.php HTTP/1.1
+Host: tsouz.belgiss.by
+User-Agent: Mozilla/5.0 (Windows NT 6.2; rv:46.0) Gecko/20100101 Firefox/46.0
+Accept-Encoding: gzip
+Referer: https://tsouz.belgiss.by/libs/site/AjaxServer/CertListFree.ajax.php
+Cookie: PHPSESSID=kotukhs3v8pa4qia0e38p76e36
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.2
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8,windows-1251;q=0.7,*;q=0.5
+Keep-Alive: 300
+
+
+Request body:
+
+
+Response headers:
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 29 Sep 2017 22:13:23 GMT
+Content-Type: text/x-json
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=180
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Last-Modified: Fri, 29 Sep 2017 22:13:23GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+

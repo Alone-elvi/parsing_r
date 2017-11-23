@@ -1,0 +1,30 @@
+Request headers:
+POST /libs/site/AjaxServer/CertListFree.ajax.php HTTP/1.1
+Host: tsouz.belgiss.by
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; WOW64; Trident/5.0)
+Accept-Encoding: gzip
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.3
+Accept-Language: en-us,en;q=0.9
+Accept-Charset: utf-8,windows-1251;q=0.7,*;q=0.7
+Keep-Alive: 300
+Content-Length: 70
+Content-Type: application/x-www-form-urlencoded
+
+
+Request body:
+_search=false&nd=1506610130720&page=2&rows=1000&sidx=cert_id&sord=desc
+
+Response headers:
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 29 Sep 2017 23:06:02 GMT
+Content-Type: text/x-json
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=180
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Last-Modified: Fri, 29 Sep 2017 23:06:02GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=qb2rtp7p3fcfrri1c3jbu8hps6; path=/; HttpOnly
+
